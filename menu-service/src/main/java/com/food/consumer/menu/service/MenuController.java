@@ -9,6 +9,6 @@ public class MenuController {
 
 	@RequestMapping("/a")
 	public String getName() {
-		return "testing";
+		return "Hi Sharma";
 	}
 }
